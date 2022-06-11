@@ -266,6 +266,7 @@ body {
     margin-right: 40px;
     border: 2px solid #fff;
     border-radius: 8px;
+    transition: all 0.4s ease;
 }
 
 .cta__button:last-child {
