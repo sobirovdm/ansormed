@@ -4,4 +4,4 @@
 
 [Maket linki](https://www.figma.com/file/h2EzOBjvCiY8hVoFolSd5Z/AnsorMed-landing-page?node-id=0%3A1) 
 
-Click [here](https://sdm-akademnashr.netlify.app/) for the live demo.
+Click [here](https://sdm-ansormed.netlify.app) for the live demo.
